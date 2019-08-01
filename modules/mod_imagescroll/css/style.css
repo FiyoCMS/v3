@@ -1,0 +1,52 @@
+.fiyoCarousel a{ 
+	color:#fff; text-decoration:none !important; 
+	font-size:12px; font-weight:700; text-shadow:1px 1px 0 #333
+}
+
+.fiyoCarousel ul a img {
+  border: 1px solid #ccc;
+  padding:1px;
+  margin-right:8px
+}
+
+.fiyoCarousel .wrapper ul {
+  width: 9999px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  position: absolute;
+  top: 0;
+}
+
+.fiyoCarousel ul li {
+  display:block;
+  float:left;
+  margin:0;
+  padding:8px 15px 8px 5px;
+  
+}
+
+.fiyoCarousel ul li a img {
+  display:block;
+}
+
+/*
+.fiyoCarouselBg {
+	background:red; 
+	background: #E3E3E3;
+	background: -webkit-gradient( linear, 
+		left bottom, 
+		left top, 
+		color-stop(0.09, #660F11), 
+		color-stop(0.55, #A21A1E), 
+		color-stop(0.78, #C32125) );
+	background: -moz-linear-gradient(
+		 center bottom,
+		 #660F11 9%,
+		 #A21A1E 55%,
+		 #C32125 78%
+		 );
+	}
+*/

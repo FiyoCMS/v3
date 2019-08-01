@@ -1,0 +1,97 @@
+* {
+    font-size: 16px;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#page {
+    width: 595px;
+    margin: 0;
+    position: block;
+    padding: 100px 50px 0;
+}
+td, th {
+    font-size: 14px;
+    padding: 6px;
+    border: 1px solid #000;
+    
+}
+td {
+    width: 400px;
+}
+td.last-td {
+    text-align: right;
+    width: 100px;
+}
+
+td h3, th h3, td h4, th h4 {
+    margin: 0;
+    padding: 0;
+}
+d h4, th h4 {
+    font-size: 14px;
+}
+
+table.data {
+    margin-left: 40px;
+}
+
+table.data td, th {
+    font-size: 12px;
+    padding: 6px;
+    border: 1px solid #000;
+    
+}
+table.noborder , table.noborder td{
+    border: none;
+}
+
+.right{
+    float : right;
+    width: 100px;
+}
+.qrcode {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.qrcode qrcode {
+    margin: -10px;
+    width: 125%;
+}
+#header {
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+}
+#header h1, #header h2, #header h3 , #header p {
+    margin: 3px;
+}
+.kop {
+    width: 510px;
+    text-align: center;
+}
+#header img.logo  {
+    height: 110px;
+    float: left;
+    margin-right: 20px;
+}
+#header h1 {
+    font-size: 21px;
+}
+
+#header {
+    width: 100%;
+    display: block;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #000;
+}
+#content {
+    width: 100%;
+    display: block;
+    padding-bottom: 20px;
+    float: left;
+}
+

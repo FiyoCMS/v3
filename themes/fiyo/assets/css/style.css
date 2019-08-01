@@ -1,0 +1,10 @@
+.bg-section-style-1 {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNTBweCIgdmlld…48cGF0aCBkPSJNMCAxNDBoMTI4MEM1NzMuMDggMTQwIDAgNjAgMCA2MHoiLz48L2c+PC9zdmc+);
+    background-size: 100% 150px;
+    bottom: 0;
+    height: 150px;
+    z-index: 1;
+}
+.bg-section-style-1.bg-right {
+    transform: rotateY(180deg) rotateX(0);
+}

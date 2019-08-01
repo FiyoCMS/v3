@@ -1,0 +1,7 @@
+[09-May-2017 09:41:45 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[09-May-2017 09:41:51 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[09-May-2017 09:42:20 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[09-May-2017 09:42:24 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[09-May-2017 09:42:31 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[10-May-2017 15:47:00 UTC] PHP Fatal error:  Class 'Controller' not found in /home/smatahun/public_html/.lulus/system/database.php on line 297
+[08-Jul-2017 14:30:44 Asia/Jakarta] PHP Fatal error:  Call to a member function update() on null in /home/smatahun/public_html/apps/app_article/controller/editor.php on line 21

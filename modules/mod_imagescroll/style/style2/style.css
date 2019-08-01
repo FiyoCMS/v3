@@ -1,0 +1,22 @@
+
+.fiyoCarousel .arrow {
+  display: block;
+  height: 83px;
+  width: 33px;
+  background: #333;
+  text-indent: -999px;
+  position: absolute;
+  top: 10px;
+  cursor: pointer;
+  z-index:9999
+}
+
+.fiyoCarousel .forward {
+  background:url(right.png) no-repeat;
+  right: -10px;
+}
+
+.fiyoCarousel .back {
+    background:url(left.png) no-repeat;
+  left: -15px;
+}

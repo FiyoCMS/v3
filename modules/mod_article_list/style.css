@@ -1,0 +1,54 @@
+/* Fiyo Comment */
+.modules ul.mod-article-list {
+	margin:0;
+	padding: 0;
+}
+.mod-article-list li {
+	margin-left: 10px;
+	line-height: 2em;
+}
+.mod-article-list li.no-list {		
+	display: inline-block;
+	position: relative;
+	clear: both;
+	list-style: none;
+	width: 100%;
+	margin-left: 0;
+	margin-bottom: 10px;
+}
+.mod-article-date {
+	overflow: hidden;
+	font-weight: 600;
+	float: left;
+	width: 65px;
+	margin: 0 10px 3px 0;
+	font-size: 2em;
+	text-align:center;
+	overflow:hidden;
+	background: #eae7e7;
+	line-height: 1.3em;
+}
+.mod-article-date .date {
+	
+	text-shadow: #ccc 1px 1px, #ccc 2px 2px, #ccc 3px 3px, #ccc 4px 4px, #ccc 5px 5px, #ccc 6px 6px, #ccc 7px 7px, #ccc 8px 8px, #ccc 9px 9px, #ccc 10px 10px, #ccc 11px 11px, #ccc 12px 12px, #ccc 13px 13px, #ccc 14px 14px, #ccc 15px 15px, #ccc 16px 16px, #ccc 17px 17px, #ccc 18px 18px, #ccc 19px 19px, #ccc 20px 20px, #ccc 21px 21px, #ccc 22px 22px, #ccc 23px 23px, #ccc 24px 24px, #ccc 25px 25px, #ccc 26px 26px, #ccc 27px 27px, #ccc 28px 28px, #ccc 29px 29px, #ccc 30px 30px, #ccc 31px 31px, #ccc 32px 32px, #ccc 33px 33px, #ccc 34px 34px, #ccc 35px 35px, #ccc 36px 36px, #ccc 37px 37px, #ccc 38px 38px, #ccc 39px 39px, #ccc 40px 40px, #ccc 41px 41px, #ccc 42px 42px, #ccc 43px 43px, #ccc 44px 44px, #ccc 45px 45px, #ccc 46px 46px, #ccc 47px 47px, #ccc 48px 48px, #ccc 49px 49px, #ccc 50px 50px, #ccc 51px 51px, #ccc 52px 52px, #ccc 53px 53px, #ccc 54px 54px, #ccc 55px 55px, #ccc 56px 56px, #ccc 57px 57px, #ccc 58px 58px;
+	overflow: hidden;
+	color: #888
+}
+.mod-article-date span {
+	line-height: 1.5em;
+   padding: 0;
+   font-size: 47%;
+   float: left;
+   width: 100%;
+   text-align: center;
+   background: #8c8b8b;
+   color: #eee;
+}
+.mod-article-list .title {
+	margin-top: 0 !important;
+	line-height: 1.5em;
+	padding: 2px 0;
+}
+.mod-article-list a {
+	display: block;
+}
